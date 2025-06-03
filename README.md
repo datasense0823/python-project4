@@ -168,13 +168,8 @@ Bonus Features	10
 2. Use PostgreSQL only, not SQLite/MySQL.
 3. Code should be readable and modularized.
 
-### Run Instructions
-bash
-pip install -r requirements.txt
-python main.py
-Update db.py with your own credentials.
 
-Happy coding!
+**Happy coding!**
 Team DataSense
 
 
