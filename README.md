@@ -112,6 +112,8 @@ CREATE TABLE guests (
     UNIQUE (event_id, email)
 );
 
+```
+
 ### Folder Structure
 
 event_planner/
