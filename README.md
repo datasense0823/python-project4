@@ -95,6 +95,7 @@ Fetch RSVP counts using list of guests
 
 ### Postgres Schema
 
+```sql
 CREATE TABLE events (
     event_id SERIAL PRIMARY KEY,
     event_name VARCHAR(100),
@@ -111,7 +112,6 @@ CREATE TABLE guests (
     UNIQUE (event_id, email)
 );
 
-
 ### Folder Structure
 
 event_planner/
@@ -121,6 +121,7 @@ event_planner/
 ├── models.py            # Event & Guest logic
 ├── utils.py             # Validations, list comprehension logic
 └── requirements.txt     # psycopg2, etc.
+
 
 
 ### Examples
