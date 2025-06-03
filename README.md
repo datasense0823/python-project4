@@ -114,9 +114,7 @@ CREATE TABLE guests (
 
 ```
 
-### Folder Structure
-
-<pre lang="markdown"> ### 📁 Folder Structure ``` event_planner/ ├── main.py # Menu logic and program entry ├── db.py # DB connection, SQL helper functions ├── models.py # Event & Guest logic ├── utils.py # Validations, list comprehension logic └── requirements.txt # psycopg2, etc. ``` </pre>
+<pre> ### 📁 Folder Structure ``` event_planner/ ├── main.py # Menu logic and program entry ├── db.py # DB connection, SQL helper functions ├── models.py # Event & Guest logic ├── utils.py # Validations, list comprehension logic └── requirements.txt # psycopg2, etc. ``` </pre>
 
 
 
