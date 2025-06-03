@@ -155,13 +155,17 @@ Event creation,Adding guests, RSVP summary,Events with no guests
 4. Your own README.md describing your learnings and logic
 
 ## 🎓 Evaluation Rubric
-Area	Points
-Python Concepts Applied	25
-List Comprehension & Loops	20
-DB Integration (Postgres)	20
-Output Formatting & Flow	15
-Code Organization	10
-Bonus Features	10
+
+```
+Area                          Points
+----------------------------  -------
+Python Concepts Applied       25
+List Comprehension & Loops    20
+DB Integration (Postgres)     20
+Output Formatting & Flow      15
+Code Organization             10
+Bonus Features                10
+```
 
 # 🔐 Rules
 1. Stick to core Python only (no frameworks or AI).
